@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: left;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+img {
+    align-self: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
